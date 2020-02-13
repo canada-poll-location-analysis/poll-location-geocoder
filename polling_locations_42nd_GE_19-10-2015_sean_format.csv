@@ -1,0 +1,370 @@
+ed_num,ed_name,pd_num,pd_sufx,pd_ltr,type,adv_num,site_name,site_name_fr,addr,addr_fr,municipality,municipality_fr,province,post_code
+11001,Cardigan,1,0,,Ordinary,601,Eastern Kings Community Centre,Eastern Kings Community Centre,85 Munn's Road,85 Munn's Road,Bothwell,Bothwell,PE,C0A 2B0
+11001,Cardigan,2,0,,Ordinary,601,Eastern Kings Community Centre,Eastern Kings Community Centre,85 Munn's Road,85 Munn's Road,Bothwell,Bothwell,PE,C0A 2B0
+11001,Cardigan,3,0,,Ordinary,601,St. Margaret's Community Hall,St. Margaret's Community Hall,11394 Northside Road,11394 Northside Road,St. Margaret's,St. Margaret's,PE,C0A 2B0
+11001,Cardigan,4,0,,Ordinary,601,St. Mary's Church Parish Hall,St. Mary's Church Parish Hall,66 Main Street,"66, rue Main",Souris,Souris,PE,C0A 2B0
+11001,Cardigan,5,0,,Ordinary,601,St. Mary's Church Parish Hall,St. Mary's Church Parish Hall,66 Main Street,"66, rue Main",Souris,Souris,PE,C0A 2B0
+11001,Cardigan,6,0,,Ordinary,601,St. Mary's Church Parish Hall,St. Mary's Church Parish Hall,66 Main Street,"66, rue Main",Souris,Souris,PE,C0A 2B0
+11001,Cardigan,7,0,,Ordinary,601,Souris Fire Hall,Souris Fire Hall,135 Main Street,"135, rue Main",Souris,Souris,PE,C0A 2B0
+11001,Cardigan,8,0,,Ordinary,601,Fortune Community Centre,Fortune Community Centre,220 Fortune Wharf Road North,220 Fortune Wharf Road Nord,Fortune Bridge,Fortune Bridge,PE,C0A 2B0
+11001,Cardigan,9,0,,Ordinary,601,Fortune Community Centre,Fortune Community Centre,220 Fortune Wharf Road North,220 Fortune Wharf Road Nord,Fortune Bridge,Fortune Bridge,PE,C0A 2B0
+11001,Cardigan,10,0,,Ordinary,601,Selkirk Community Centre (Armdale School),Selkirk Community Centre (Armdale School),1657 Selkirk Road,1657 Selkirk Road,Selkirk,Selkirk,PE,C0A 2B0
+11001,Cardigan,11,0,,Ordinary,600,Dr. Roddy Community Centre,Dr. Roddy Community Centre,5549 St. Peters Highway,5549 St. Peters Highway,St. Peter's,St. Peter's,PE,C0A 2A0
+11001,Cardigan,12,0,,Ordinary,601,Dr. Roddy Community Centre,Dr. Roddy Community Centre,5549 St. Peters Highway,5549 St. Peters Highway,St. Peter's,St. Peter's,PE,C0A 2A0
+11001,Cardigan,13,0,,Ordinary,600,Circle Club,Circle Club,1917 Cardigan Road,1917 Cardigan Road,St. Peters,St. Peters,PE,C0A 2A0
+11001,Cardigan,14,0,,Ordinary,600,Morell Fire Hall,Morell Fire Hall,15 Park Street,"15, rue Park",Morell,Morell,PE,C0A 1S0
+11001,Cardigan,15,0,,Ordinary,600,Morell Fire Hall,Morell Fire Hall,15 Park Street,"15, rue Park",Morell,Morell,PE,C0A 1S0
+11001,Cardigan,16,0,,Ordinary,600,St. John's United Church Hall,St. John's United Church Hall,126 Main Street,"126, rue Main",Mount Stewart,Mount Stewart,PE,C0A 1T0
+11001,Cardigan,17,0,,Ordinary,600,St. John's United Church Hall,St. John's United Church Hall,126 Main Street,"126, rue Main",Mount Stewart,Mount Stewart,PE,C0A 1T0
+11001,Cardigan,18,0,,Ordinary,600,Tracadie Community Centre,Tracadie Community Centre,148 Station Road,148 Station Road,Tracadie,Tracadie,PE,C0A 1T0
+11001,Cardigan,19,0,,Ordinary,600,Corran Ban Church Hall,Corran Ban Church Hall,1231 Bedford Road,1231 Bedford Road,Corran Ban,Corran Ban,PE,C0A 1T0
+11001,Cardigan,20,0,,Ordinary,600,Olde Dunstaffnage School Centre,Olde Dunstaffnage School Centre,"13539 Route 2, St. Peters Road","13539 Route 2, St. Peters Road",Dunstaffnage,Dunstaffnage,PE,C1C 0M4
+11001,Cardigan,21,0,,Ordinary,603,Fort Augustus Lions Hall,Fort Augustus Lions Hall,2518 Fort Augustus Road,2518 Fort Augustus Road,Glenfinnon,Glenfinnon,PE,C1A 7J8
+11001,Cardigan,22,0,,Ordinary,600,Fort Augustus Recreation Centre,Fort Augustus Recreation Centre,3763 Fort Augustus Road,3763 Fort Augustus Road,Fort Augustus,Fort Augustus,PE,C1A 7J8
+11001,Cardigan,23,0,,Ordinary,603,Fort Augustus Recreation Centre,Fort Augustus Recreation Centre,3763 Fort Augustus Road,3763 Fort Augustus Road,Fort Augustus,Fort Augustus,PE,C1A 7J8
+11001,Cardigan,24,0,,Ordinary,600,St. Teresa Community Centre,St. Teresa Community Centre,2972 Old Mount Stewart Road,2972 Old Mount Stewart Road,St. Teresa,St. Teresa,PE,C0A 1T0
+11001,Cardigan,25,0,,Ordinary,602,All Saints Parish Centre,All Saints Parish Centre,4279 Chapel Road,4279 Chapel Road,Cardigan,Cardigan,PE,C0A 1G0
+11001,Cardigan,26,0,,Ordinary,602,All Saints Parish Centre,All Saints Parish Centre,4279 Chapel Road,4279 Chapel Road,Cardigan,Cardigan,PE,C0A 1G0
+11001,Cardigan,27,0,,Ordinary,602,All Saints Parish Centre,All Saints Parish Centre,4279 Chapel Road,4279 Chapel Road,Cardigan,Cardigan,PE,C0A 1G0
+11001,Cardigan,28,0,,Ordinary,601,Little Pond Community Centre,Little Pond Community Centre,2547 Route 310,2547 Route 310,Little Pond,Little Pond,PE,C0A 2B0
+11001,Cardigan,29,0,,Ordinary,602,All Saints Parish Centre,All Saints Parish Centre,4279 Chapel Road,4279 Chapel Road,Cardigan,Cardigan,PE,C0A 1G0
+11001,Cardigan,30,0,,Ordinary,602,Kings Playhouse,Kings Playhouse,65 Corner of Grafton & Main Street,"65, rue Corner of Grafton & Main",Georgetown,Georgetown,PE,C0A 1L0
+11001,Cardigan,31,0,,Ordinary,602,Kings Playhouse,Kings Playhouse,65 Corner of Grafton & Main Street,"65, rue Corner of Grafton & Main",Georgetown,Georgetown,PE,C0A 1L0
+11001,Cardigan,32,0,,Ordinary,602,Montague Curling Club,Montague Curling Club,23 Central Street,"23, rue Central",Montague,Montague,PE,C0A 1R0
+11001,Cardigan,33,0,,Ordinary,605,Montague Curling Club,Montague Curling Club,23 Central Street,"23, rue Central",Montague,Montague,PE,C0A 1R0
+11001,Cardigan,34,0,,Ordinary,605,Montague Curling Club,Montague Curling Club,23 Central Street,"23, rue Central",Montague,Montague,PE,C0A 1R0
+11001,Cardigan,35,0,,Ordinary,605,Lower Montague Community Hall,Lower Montague Community Hall,88 Lower Montague Road,88 Lower Montague Road,Lower Montague,Lower Montague,PE,C0A 1R0
+11001,Cardigan,36,0,,Ordinary,605,St. Paul's Parish Hall,St. Paul's Parish Hall,1133 Cambridge Road,1133 Cambridge Road,Sturgeon,Sturgeon,PE,C0A 1R0
+11001,Cardigan,37,0,,Ordinary,605,Cambridge Hall,Cambridge Hall,425 Cambridge Road,425 Cambridge Road,Cambridge,Cambridge,PE,C0A 1R0
+11001,Cardigan,38,0,,Ordinary,606,Murray Harbour Community Centre,Murray Harbour Community Centre,1382 Main Street,"1382, rue Main",Murray Harbour,Murray Harbour,PE,C0A 1V0
+11001,Cardigan,39,0,,Ordinary,606,Murray Harbour Community Centre,Murray Harbour Community Centre,1382 Main Street,"1382, rue Main",Murray Harbour,Murray Harbour,PE,C0A 1V0
+11001,Cardigan,40,0,,Ordinary,605,Northumberland Arena,Northumberland Arena,1251 Gladstone Road,1251 Gladstone Road,Murray River,Murray River,PE,C0A 1W0
+11001,Cardigan,41,0,,Ordinary,606,Northumberland Arena,Northumberland Arena,1251 Gladstone Road,1251 Gladstone Road,Murray River,Murray River,PE,C0A 1W0
+11001,Cardigan,42,0,,Ordinary,606,Northumberland Arena,Northumberland Arena,1251 Gladstone Road,1251 Gladstone Road,Murray River,Murray River,PE,C0A 1W0
+11001,Cardigan,43,0,,Ordinary,605,Cavendish Farms Wellness Centre,Cavendish Farms Wellness Centre,53 Wood Islands Road,53 Wood Islands Road,Montague,Montague,PE,C0A 1R0
+11001,Cardigan,44,0,,Ordinary,605,Cavendish Farms Wellness Centre,Cavendish Farms Wellness Centre,53 Wood Islands Road,53 Wood Islands Road,Montague,Montague,PE,C0A 1R0
+11001,Cardigan,45,0,,Ordinary,602,Cavendish Farms Wellness Centre,Cavendish Farms Wellness Centre,53 Wood Islands Road,53 Wood Islands Road,Montague,Montague,PE,C0A 1R0
+11001,Cardigan,46,0,,Ordinary,605,Cavendish Farms Wellness Centre,Cavendish Farms Wellness Centre,53 Wood Islands Road,53 Wood Islands Road,Montague,Montague,PE,C0A 1R0
+11001,Cardigan,47,0,,Ordinary,603,Vernon River Hall,Vernon River Hall,5376 Georgetown Road,5376 Georgetown Road,Vernon River,Vernon River,PE,C0A 2E0
+11001,Cardigan,48,0,,Ordinary,603,Vernon River Hall,Vernon River Hall,5376 Georgetown Road,5376 Georgetown Road,Vernon River,Vernon River,PE,C0A 2E0
+11001,Cardigan,49,0,,Ordinary,603,Pownal Sports Centre,Pownal Sports Centre,145 Pownal Road,145 Pownal Road,Pownal,Pownal,PE,C0A 1Z0
+11001,Cardigan,50,0,A,Ordinary,603,Cotton Centre Seniors Room,Cotton Centre Seniors Room,57 Bunbury Road,57 Bunbury Road,Stratford,Stratford,PE,C1B 1T8
+11001,Cardigan,50,0,B,Ordinary,603,Cotton Centre Seniors Room,Cotton Centre Seniors Room,57 Bunbury Road,57 Bunbury Road,Stratford,Stratford,PE,C1B 1T8
+11001,Cardigan,51,0,,Ordinary,604,Cotton Centre Seniors Room,Cotton Centre Seniors Room,57 Bunbury Road,57 Bunbury Road,Stratford,Stratford,PE,C1B 1T8
+11001,Cardigan,52,0,,Ordinary,603,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,53,0,,Ordinary,603,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,54,0,A,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,54,0,B,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,55,0,,Ordinary,603,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,56,0,A,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,56,0,B,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,57,0,,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,58,0,A,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,58,0,B,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,59,0,,Ordinary,604,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,60,0,,Ordinary,604,Our Lady of The Assumption Parish Certre,Our Lady of The Assumption Parish Centre,151 Stratford Road,151 Stratford Road,Stratford,Stratford,PE,C1B 1H1
+11001,Cardigan,61,0,,Ordinary,604,Our Lady of The Assumption Parish Certre,Our Lady of The Assumption Parish Centre,151 Stratford Road,151 Stratford Road,Stratford,Stratford,PE,C1B 1H1
+11001,Cardigan,62,0,,Ordinary,604,Our Lady of The Assumption Parish Certre,Our Lady of The Assumption Parish Centre,151 Stratford Road,151 Stratford Road,Stratford,Stratford,PE,C1B 1H1
+11001,Cardigan,63,0,A,Ordinary,604,Our Lady of The Assumption Parish Certre,Our Lady of The Assumption Parish Centre,151 Stratford Road,151 Stratford Road,Stratford,Stratford,PE,C1B 1H1
+11001,Cardigan,63,0,B,Ordinary,604,Our Lady of The Assumption Parish Certre,Our Lady of The Assumption Parish Centre,151 Stratford Road,151 Stratford Road,Stratford,Stratford,PE,C1B 1H1
+11001,Cardigan,64,0,A,Ordinary,604,Our Lady of The Assumption Parish Certre,Our Lady of The Assumption Parish Centre,151 Stratford Road,151 Stratford Road,Stratford,Stratford,PE,C1B 1H1
+11001,Cardigan,64,0,B,Ordinary,604,Our Lady of The Assumption Parish Certre,Our Lady of The Assumption Parish Centre,151 Stratford Road,151 Stratford Road,Stratford,Stratford,PE,C1B 1H1
+11001,Cardigan,65,0,,Ordinary,603,Pownal Sports Centre,Pownal Sports Centre,145 Pownal Road,145 Pownal Road,Pownal,Pownal,PE,C0A 1Z0
+11001,Cardigan,66,0,,Ordinary,603,Pownal Sports Centre,Pownal Sports Centre,145 Pownal Road,145 Pownal Road,Pownal,Pownal,PE,C0A 1Z0
+11001,Cardigan,67,0,,Ordinary,603,Cherry Cliffe Community Centre,Cherry Cliffe Community Centre,217 McInnis Point Road,217 McInnis Point Road,Cherry Valley,Cherry Valley,PE,C0A 2E0
+11001,Cardigan,68,0,,Ordinary,602,Uigg Community Centre,Uigg Community Centre,4894 Murray Harbour Road,4894 Murray Harbour Road,Uigg,Uigg,PE,C0A 2E0
+11001,Cardigan,69,0,,Ordinary,606,Belfast Rec Center,Belfast Rec Center,3033 Garfield Road,3033 Garfield Road,Eldon,Eldon,PE,C0A 1A0
+11001,Cardigan,70,0,,Ordinary,606,"Royal Canadian Legion, Branch 7","Royal Canadian Legion, Branch 7",4187 Trans Canada Highway,4187 Trans Canada Highway,Eldon,Eldon,PE,C0A 1A0
+11001,Cardigan,71,0,,Ordinary,606,"Royal Canadian Legion, Branch 7","Royal Canadian Legion, Branch 7",4187 Trans Canada Highway,4187 Trans Canada Highway,Eldon,Eldon,PE,C0A 1A0
+11001,Cardigan,72,0,,Ordinary,606,Wood Islands Welcome Centre,Wood Islands Welcome Centre,13056 Shore Road,13056 Shore Road,Wood Islands,Wood Islands,PE,C0A 1B0
+11001,Cardigan,73,0,,Ordinary,605,St. Paul's Parish Hall,St. Paul's Parish Hall,1133 Cambridge Road,1133 Cambridge Road,Sturgeon,Sturgeon,PE,C0A 1R0
+11001,Cardigan,500,0,,Mobile,601,Bayview Lodge,Bayview Lodge,22 Washington Street,"22, rue Washington",Souris,Souris,PE,C0A 2B0
+11001,Cardigan,500,0,,Mobile,601,Colville Manor,Colville Manor,20 MacPhee Avenue,"20, avenue MacPhee",Souris,Souris,PE,C0A 2B0
+11001,Cardigan,501,0,A,Mobile,605,Perrins Marina Villa,Perrins Marina Villa,115 Sackville Street,"115, rue Sackville",Montague,Montague,PE,C0A 1R0
+11001,Cardigan,501,0,A,Mobile,605,Riverview Manor,Riverview,14 Rosedale Road,14 Rosedale Road,Montague,Montague,PE,C0A 1R0
+11001,Cardigan,501,0,B,Mobile,605,MacKinnon Pines,MacKinnon Pines,505 Campbellton Street,"505, rue Campbellton",Montague,Montague,PE,C0A 1R0
+11001,Cardigan,502,0,,Mobile,605,Dr. John Gillis Memorial Lodge,Dr. John Gillis Memorial Lodge,"3134 Route 207, Garfield Road","3134 Route 207, Garfield Road",Lower Newton,Lower Newton,PE,C0A 1A0
+11001,Cardigan,503,0,,Mobile,604,Andrews of Stratford,Andrews of Stratford,355 Shakespeare Drive,355 Shakespeare Drive,Stratford,Stratford,PE,C1B 2Y2
+11001,Cardigan,503,0,,Mobile,604,St. John's House,St. John's House,1 St. John's Avenue,"1, avenue St. John's",Stratford,Stratford,PE,C1B 2B4
+11001,Cardigan,600,,,Advance,-,St. John's United Church Hall,St. John's United Church Hall,126 Main Street,"126, rue Main",Mount Stewart,Mount Stewart,PE,C0A 1T0
+11001,Cardigan,601,,,Advance,-,Eastern Kings Sportsplex,Eastern Kings Sportslex,203 Main Street,"203, rue Main",Souris,Souris,PE,C0A 1B0
+11001,Cardigan,602,,,Advance,-,Montague Curling Club,Montague Curling Club,23 Central Street,"23, rue Central",Montague,Montague,PE,C0A 1R0
+11001,Cardigan,603,,,Advance,-,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,604,,,Advance,-,Stratford Town Centre,Stratford Town Centre,234 Shakespeare Drive,234 Shakespeare Drive,Stratford,Stratford,PE,C1B 2V8
+11001,Cardigan,605,,,Advance,-,Montague Curling Club,Montague Curling Club,23 Central Street,"23, rue Central",Montague,Montague,PE,C0A 1R0
+11001,Cardigan,606,,,Advance,-,Wood Islands Welcome Centre,Wood Islands Welcome Centre,13056 Shore Road,13056 Shore Road,Wood Islands,Wood Islands,PE,C0A 1B0
+11002,Charlottetown,1,0,,Ordinary,602,Malcolm Darrach Civic Centre,Malcolm Darrach Civic Centre,1 Avonlea Drive,1 Avonlea Drive,Charlottetown,Charlottetown,PE,C1C 1C8
+11002,Charlottetown,2,0,,Ordinary,602,Malcolm Darrach Civic Centre,Malcolm Darrach Civic Centre,1 Avonlea Drive,1 Avonlea Drive,Charlottetown,Charlottetown,PE,C1C 1C8
+11002,Charlottetown,3,0,,Ordinary,602,Malcolm Darrach Civic Centre,Malcolm Darrach Civic Centre,1 Avonlea Drive,1 Avonlea Drive,Charlottetown,Charlottetown,PE,C1C 1C8
+11002,Charlottetown,4,0,,Ordinary,602,Malcolm Darrach Civic Centre,Malcolm Darrach Civic Centre,1 Avonlea Drive,1 Avonlea Drive,Charlottetown,Charlottetown,PE,C1C 1C8
+11002,Charlottetown,5,0,,Ordinary,602,Stonepark Intermediate School,Stonepark Intermediate School,50 Pope Avenue,"50, avenue Pope",Charlottetown,Charlottetown,PE,C1A 7P5
+11002,Charlottetown,6,0,,Ordinary,601,Stonepark Intermediate School,Stonepark Intermediate School,50 Pope Avenue,"50, avenue Pope",Charlottetown,Charlottetown,PE,C1A 7P5
+11002,Charlottetown,7,0,,Ordinary,600,Community Baptist Church,Community Baptist Church,162 Sherwood Road,162 Sherwood Road,Charlottetown,Charlottetown,PE,C1E 0E4
+11002,Charlottetown,8,0,,Ordinary,601,Community Baptist Church,Community Baptist Church,162 Sherwood Road,162 Sherwood Road,Charlottetown,Charlottetown,PE,C1E 0E4
+11002,Charlottetown,9,0,,Ordinary,601,Community Baptist Church,Community Baptist Church,162 Sherwood Road,162 Sherwood Road,Charlottetown,Charlottetown,PE,C1E 0E4
+11002,Charlottetown,10,0,,Ordinary,600,Community Baptist Church,Community Baptist Church,162 Sherwood Road,162 Sherwood Road,Charlottetown,Charlottetown,PE,C1E 0E4
+11002,Charlottetown,11,0,,Ordinary,601,Community Baptist Church,Community Baptist Church,162 Sherwood Road,162 Sherwood Road,Charlottetown,Charlottetown,PE,C1E 0E4
+11002,Charlottetown,12,0,,Ordinary,601,St. Mark's Presbyterian Church,St. Mark's Presbyterian Church,7 Tamarac Avenue,"7, avenue Tamarac",Charlottetown,Charlottetown,PE,C1A 6T2
+11002,Charlottetown,13,0,,Ordinary,601,St. Mark's Presbyterian Church,St. Mark's Presbyterian Church,7 Tamarac Avenue,"7, avenue Tamarac",Charlottetown,Charlottetown,PE,C1A 6T2
+11002,Charlottetown,14,0,,Ordinary,601,Sherwood Nazarene Church Hall,Sherwood Nazarene Church Hall,40 Woodlawn Drive,40 Woodlawn Drive,Charlottetown,Charlottetown,PE,C1A 6K9
+11002,Charlottetown,15,0,,Ordinary,601,Sherwood Nazarene Church Hall,Sherwood Nazarene Church Hall,40 Woodlawn Drive,40 Woodlawn Drive,Charlottetown,Charlottetown,PE,C1A 6K9
+11002,Charlottetown,16,0,,Ordinary,601,P.E.I. Atlantic Baptist Nursing Home,P.E.I. Atlantic Baptist Nursing Home,16 Centennial Drive,16 Centennial Drive,Charlottetown,Charlottetown,PE,C1A 6C5
+11002,Charlottetown,17,0,,Ordinary,603,Whisperwood Villa,Whisperwood Villa,160 St. Peters Road,160 St. Peters Road,Charlottetown,Charlottetown,PE,C1A 5P8
+11002,Charlottetown,18,0,,Ordinary,602,Hillsborough Park Community Centre,Centre communautaire Hillsborough Park,199 Patterson Drive,199 Patterson Drive,Charlottetown,Charlottetown,PE,C1A 8J2
+11002,Charlottetown,19,0,,Ordinary,602,Hillsborough Park Community Centre,Centre communautaire Hillsborough Park,199 Patterson Drive,199 Patterson Drive,Charlottetown,Charlottetown,PE,C1A 8J2
+11002,Charlottetown,20,0,,Ordinary,603,Hillsborough Park Community Centre,Centre communautaire Hillsborough Park,199 Patterson Drive,199 Patterson Drive,Charlottetown,Charlottetown,PE,C1A 8J2
+11002,Charlottetown,21,0,,Ordinary,602,Hillsborough Park Community Centre,Centre communautaire Hillsborough Park,199 Patterson Drive,199 Patterson Drive,Charlottetown,Charlottetown,PE,C1A 8J2
+11002,Charlottetown,22,0,,Ordinary,602,Carrefour l'îsle St. Jean,Carrefour l'îsle St. Jean,5 Acadian Drive,5 Acadian Drive,Charlottetown,Charlottetown,PE,C1C 1M2
+11002,Charlottetown,23,0,,Ordinary,602,Carrefour l'îsle St. Jean,Carrefour l'îsle St. Jean,5 Acadian Drive,5 Acadian Drive,Charlottetown,Charlottetown,PE,C1C 1M2
+11002,Charlottetown,24,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,25,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,26,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,27,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,28,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,29,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,30,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,31,0,,Ordinary,603,Eastlink Centre,Eastlink Centre,46 Kensington Road,46 Kensington Road,Charlottetown,Charlottetown,PE,C1A 5H7
+11002,Charlottetown,32,0,,Ordinary,603,Park Royal Church Hall,Park Royal Church Hall,11 Christie Drive,11 Christie Drive,Charlottetown,Charlottetown,PE,C1A 5W6
+11002,Charlottetown,33,0,,Ordinary,600,Maritime Christian College,Maritime Christian College,503 University Avenue,"503, avenue University",Charlottetown,Charlottetown,PE,C1A 7Z4
+11002,Charlottetown,34,0,,Ordinary,600,Maritime Christian College,Maritime Christian College,503 University Avenue,"503, avenue University",Charlottetown,Charlottetown,PE,C1A 7Z4
+11002,Charlottetown,35,0,,Ordinary,600,West Royalty Community Centre,West Royalty Community Centre,1 Kirkdale Road,1 Kirkdale Road,Charlottetown,Charlottetown,PE,C1E 1R3
+11002,Charlottetown,36,0,,Ordinary,600,West Royalty Community Centre,West Royalty Community Centre,1 Kirkdale Road,1 Kirkdale Road,Charlottetown,Charlottetown,PE,C1E 1R3
+11002,Charlottetown,37,0,,Ordinary,600,West Royalty Community Centre,West Royalty Community Centre,1 Kirkdale Road,1 Kirkdale Road,Charlottetown,Charlottetown,PE,C1E 1R3
+11002,Charlottetown,38,0,,Ordinary,600,West Royalty Community Centre,West Royalty Community Centre,1 Kirkdale Road,1 Kirkdale Road,Charlottetown,Charlottetown,PE,C1E 1R3
+11002,Charlottetown,39,0,,Ordinary,600,West Royalty Community Centre,West Royalty Community Centre,1 Kirkdale Road,1 Kirkdale Road,Charlottetown,Charlottetown,PE,C1E 1R3
+11002,Charlottetown,40,0,,Ordinary,600,West Royalty Community Centre,West Royalty Community Centre,1 Kirkdale Road,1 Kirkdale Road,Charlottetown,Charlottetown,PE,C1E 1R3
+11002,Charlottetown,41,0,,Ordinary,600,West Royalty Community Centre,West Royalty Community Centre,1 Kirkdale Road,1 Kirkdale Road,Charlottetown,Charlottetown,PE,C1E 1R3
+11002,Charlottetown,42,0,,Ordinary,600,Winsloe Lions Hall,Winsloe Lions Hall,14 Campbell Road,14 Campbell Road,Charlottetown,Charlottetown,PE,C1E 1Z2
+11002,Charlottetown,43,0,,Ordinary,600,Winsloe Lions Hall,Winsloe Lions Hall,14 Campbell Road,14 Campbell Road,Charlottetown,Charlottetown,PE,C1E 1Z2
+11002,Charlottetown,44,0,,Ordinary,600,Winsloe Lions Hall,Winsloe Lions Hall,14 Campbell Road,14 Campbell Road,Charlottetown,Charlottetown,PE,C1E 1Z2
+11002,Charlottetown,45,0,,Ordinary,600,Beach Grove Home,Beach Grove Home,200 Beach Grove Road,200 Beach Grove Road,Charlottetown,Charlottetown,PE,C1E 1L3
+11002,Charlottetown,46,0,,Ordinary,600,Beach Grove Home,Beach Grove Home,200 Beach Grove Road,200 Beach Grove Road,Charlottetown,Charlottetown,PE,C1E 1L3
+11002,Charlottetown,47,0,,Ordinary,600,Benevolent Irish Society Hall,Benevolent Irish Society Hall,582 North River Road,582 North River Road,Charlottetown,Charlottetown,PE,C1E 1K1
+11002,Charlottetown,48,0,,Ordinary,600,Benevolent Irish Society Hall,Benevolent Irish Society Hall,582 North River Road,582 North River Road,Charlottetown,Charlottetown,PE,C1E 1K1
+11002,Charlottetown,49,0,,Ordinary,600,Spring Park United Church Hall,Spring Park United Church Hall,65 Kirkwood Drive,65 Kirkwood Drive,Charlottetown,Charlottetown,PE,C1A 2T8
+11002,Charlottetown,50,0,,Ordinary,604,Spring Park United Church Hall,Spring Park United Church Hall,65 Kirkwood Drive,65 Kirkwood Drive,Charlottetown,Charlottetown,PE,C1A 2T8
+11002,Charlottetown,51,0,,Ordinary,604,Jack Blanchard Family Centre,Jack Blanchard Family Centre,7 Pond Street,"7, rue Pond",Charlottetown,Charlottetown,PE,C1A 2N9
+11002,Charlottetown,52,0,,Ordinary,604,Jack Blanchard Family Centre,Jack Blanchard Family Centre,7 Pond Street,"7, rue Pond",Charlottetown,Charlottetown,PE,C1A 2N9
+11002,Charlottetown,53,0,,Ordinary,604,Senior Residence,Senior Residence,501 Queen Street,"501, rue Queen",Charlottetown,Charlottetown,PE,C1A 8B3
+11002,Charlottetown,54,0,,Ordinary,604,Senior Residence,Senior Residence,501 Queen Street,"501, rue Queen",Charlottetown,Charlottetown,PE,C1A 8B3
+11002,Charlottetown,55,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,56,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,57,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,58,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,59,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,60,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,61,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,62,0,,Ordinary,604,Lions Bingo Hall,Lions Bingo Hall,46 Valley Street,"46, rue Valley",Charlottetown,Charlottetown,PE,C1E 2B2
+11002,Charlottetown,63,0,,Ordinary,603,Birchwood Intermediate School,Birchwood Intermediate School,49 Longworth Avenue,"49, avenue Longworth",Charlottetown,Charlottetown,PE,C1A 5A6
+11002,Charlottetown,64,0,,Ordinary,603,Champion Court Seniors,Champion Court Seniors,9 Champion Court,9 Champion Court,Charlottetown,Charlottetown,PE,C1A 8W2
+11002,Charlottetown,65,0,,Ordinary,603,Champion Court Seniors,Champion Court Seniors,9 Champion Court,9 Champion Court,Charlottetown,Charlottetown,PE,C1A 8W2
+11002,Charlottetown,66,0,,Ordinary,603,Holland College,Collège Holland,300 Kent Street,"300, rue Kent",Charlottetown,Charlottetown,PE,C1A 4Z1
+11002,Charlottetown,67,0,,Ordinary,603,Holland College,Collège Holland,300 Kent Street,"300, rue Kent",Charlottetown,Charlottetown,PE,C1A 4Z1
+11002,Charlottetown,68,0,,Ordinary,604,St. Peter's Anglican Church Hall,St. Peter's Anglican Church Hall,11 All Souls Lane,11 All Souls Lane,Charlottetown,Charlottetown,PE,C1A 1P9
+11002,Charlottetown,69,0,,Ordinary,604,St. Peter's Anglican Church Hall,St. Peter's Anglican Church Hall,11 All Souls Lane,11 All Souls Lane,Charlottetown,Charlottetown,PE,C1A 1P9
+11002,Charlottetown,70,0,,Ordinary,603,Murphy's Community Centre,Murphy's Community Centre,200 Richmond Street,"200, rue Richmond",Charlottetown,Charlottetown,PE,C1A 1J2
+11002,Charlottetown,71,0,,Ordinary,603,Murphy's Community Centre,Murphy's Community Centre,200 Richmond Street,"200, rue Richmond",Charlottetown,Charlottetown,PE,C1A 1J2
+11002,Charlottetown,72,0,,Ordinary,604,Haviland Court,Haviland Court,24 Haviland Street,"24, rue Haviland",Charlottetown,Charlottetown,PE,C1A 9G9
+11002,Charlottetown,73,0,,Ordinary,604,Haviland Court,Haviland Court,24 Haviland Street,"24, rue Haviland",Charlottetown,Charlottetown,PE,C1A 9G9
+11002,Charlottetown,74,0,,Ordinary,604,Park West Lodge,Park West Lodge,22 Richmond Street,"22, rue Richmond",Charlottetown,Charlottetown,PE,C1A 1H4
+11002,Charlottetown,500,0,,Mobile,603,Bevan Lodge,Bevan Lodge,8 Ellis Road,8 Ellis Road,Charlottetown,Charlottetown,PE,C1A 8N4
+11002,Charlottetown,500,0,,Mobile,603,Corrigan Home,Corrigan Home,22 Hemlock Court,22 Hemlock Court,Charlottetown,Charlottetown,PE,C1A 8E3
+11002,Charlottetown,500,0,,Mobile,603,Langille House,Langille House,214 Kent Street,"214, rue Kent",Charlottetown,Charlottetown,PE,C1A 1P2
+11002,Charlottetown,500,0,,Mobile,603,MacMillan Lodge,MacMillan Lodge,215 Sydney Street,"215, rue Sydney",Charlottetown,Charlottetown,PE,C1A 1A9
+11002,Charlottetown,500,0,,Mobile,603,Tenderwood Lodge,Tenderwood Lodge,15 Hawthorne Avenue,"15, avenue Hawthorne",Charlottetown,Charlottetown,PE,C1A 5X8
+11002,Charlottetown,500,0,,Mobile,603,The Mount,The Mount,141 Mount Edward Road,141 Mount Edward Road,Charlottetown,Charlottetown,PE,C1A 5T1
+11002,Charlottetown,500,0,,Mobile,603,Valley House,Valley House,92 Longworth Avenue,"92, avenue Longworth",Charlottetown,Charlottetown,PE,C1A 5A7
+11002,Charlottetown,501,0,,Mobile,604,Charlotte Residence,Charlotte Residence,39 All Souls Lane,39 All Souls Lane,Charlottetown,Charlottetown,PE,C1A 1P9
+11002,Charlottetown,501,0,,Mobile,604,Elm Crest Lodge,Elm Crest Lodge,267 Richmond Street,"267, rue Richmond",Charlottetown,Charlottetown,PE,C1A 1J7
+11002,Charlottetown,501,0,,Mobile,604,Geneva Villa,Geneva Villa,78 Walthen Drive,78 Walthen Drive,Charlottetown,Charlottetown,PE,C1A 4T7
+11002,Charlottetown,501,0,,Mobile,604,McQuaid Lodge,McQuaid Lodge,36 Kent Street,"36, rue Kent",Charlottetown,Charlottetown,PE,C1A 1M8
+11002,Charlottetown,501,0,,Mobile,604,Prince Edward Home - New,Prince Edward Home,75 Maypoint Road,75 Maypoint Road,Charlottetown,Charlottetown,PE,C1E 3H1
+11002,Charlottetown,501,0,,Mobile,604,Stamper Residence,Stamper Residence,29 Fitzroy Street,"29, rue Fitzroy",Charlottetown,Charlottetown,PE,C1A 1R2
+11002,Charlottetown,502,0,,Mobile,600,Andrews of Charlottetown,Andrews of Charlottetown,73 Malpeque Road,73 Malpeque Road,Charlottetown,Charlottetown,PE,C1E 1S3
+11002,Charlottetown,502,0,,Mobile,600,Garden Home,Garden Home,310 North River Road,310 North River Road,Charlottetown,Charlottetown,PE,C1A 3M4
+11002,Charlottetown,502,0,,Mobile,600,Smith Lodge,Smith Lodge,35 Weymouth Street,"35, rue Weymouth",Charlottetown,Charlottetown,PE,C1A 4Y3
+11002,Charlottetown,600,,,Advance,-,Charlottetown Mall,Charlottetown Mall,670 University Avenue,"670, avenue University",Charlottetown,Charlottetown,PE,C1E 1H6
+11002,Charlottetown,601,,,Advance,-,Charlottetown Mall,Charlottetown Mall,670 University Avenue,"670, avenue University",Charlottetown,Charlottetown,PE,C1E 1H6
+11002,Charlottetown,602,,,Advance,-,Charlottetown Mall,Charlottetown Mall,670 University Avenue,"670, avenue University",Charlottetown,Charlottetown,PE,C1E 1H6
+11002,Charlottetown,603,,,Advance,-,Charlottetown Mall,Charlottetown Mall,670 University Avenue,"670, avenue University",Charlottetown,Charlottetown,PE,C1E 1H6
+11002,Charlottetown,604,,,Advance,-,Charlottetown Mall,Charlottetown Mall,670 University Avenue,"670, avenue University",Charlottetown,Charlottetown,PE,C1E 1H6
+11003,Egmont,1,0,,Ordinary,600,Tignish Fire Hall,Caserne de pompiers de Tignish,241 Church Street,"241, rue Church",Tignish,Tignish,PE,C0B 2B0
+11003,Egmont,2,0,,Ordinary,600,Tignish Fire Hall,Caserne de pompiers de Tignish,241 Church Street,"241, rue Church",Tignish,Tignish,PE,C0B 2B0
+11003,Egmont,3,0,,Ordinary,600,Tignish Fire Hall,Caserne de pompiers de Tignish,241 Church Street,"241, rue Church",Tignish,Tignish,PE,C0B 2B0
+11003,Egmont,4,0,,Ordinary,600,Tignish Fire Hall,Caserne de pompiers de Tignish,241 Church Street,"241, rue Church",Tignish,Tignish,PE,C0B 2B0
+11003,Egmont,5,0,,Ordinary,600,Tignish Fire Hall,Caserne de pompiers de Tignish,241 Church Street,"241, rue Church",Tignish,Tignish,PE,C0B 2B0
+11003,Egmont,6,0,,Ordinary,600,St. Felix Community Centre,Centre communautaire de St. Felix,1270 Greenmount Road,1270 Greenmount Road,St. Felix,St. Felix,PE,C0B 2B0
+11003,Egmont,7,0,,Ordinary,600,Knights of Columbus,Chevaliers de Colomb,516 Thompson Road,516 Thompson Road,Palmer Road,Palmer Road,PE,C0B 1Z0
+11003,Egmont,8,0,,Ordinary,600,Knights of Columbus,Chevaliers de Colomb,516 Thompson Road,516 Thompson Road,Palmer Road,Palmer Road,PE,C0B 1Z0
+11003,Egmont,9,0,,Ordinary,600,Miminegash Community Centre,Centre communautaire de Miminegash,11315 Harbour Road,11315 Harbour Road,Miminegash,Miminegash,PE,C0B 1S0
+11003,Egmont,10,0,,Ordinary,601,St. Felix Community Centre,Centre communautaire de St. Felix,1270 Greenmount Road,1270 Greenmount Road,St. Felix,St. Felix,PE,C0B 2B0
+11003,Egmont,11,0,,Ordinary,601,Northport Community Centre,Centre communautaire de Northport ,218 Route 152,218 Route 152,Northport,Northport,PE,C0B 1B0
+11003,Egmont,12,0,,Ordinary,601,Northport Community Centre,Centre communautaire de Northport ,218 Route 152,218 Route 152,Northport,Northport,PE,C0B 1B0
+11003,Egmont,13,0,A,Ordinary,601,Northport Community Centre,Centre communautaire de Northport ,218 Route 152,218 Route 152,Northport,Northport,PE,C0B 1B0
+11003,Egmont,13,0,B,Mobile,601,Maplewood Manor,Manoir Maplewood,405 Church Street,"405, rue Church",Alberton,Alberton,PE,C0B 1B0
+11003,Egmont,14,0,,Ordinary,601,Elmsdale Community Centre,Centre communautaire d'Elmsdale,1006 Dock Road,1006 Dock Road,Elmsdale,Elmsdale,PE,C0B 1K0
+11003,Egmont,15,0,,Ordinary,601,Miminegash Community Centre,Centre communautaire de Miminegash,11315 Harbour Road,11315 Harbour Road,Miminegash,Miminegash,PE,C0B 1S0
+11003,Egmont,16,0,,Ordinary,601,Elmsdale Community Centre,Centre communautaire d'Elmsdale,1006 Dock Road,1006 Dock Road,Elmsdale,Elmsdale,PE,C0B 1K0
+11003,Egmont,17,0,,Ordinary,601,Rodd Mill River Resort,Rodd Mill River Resort,180 Mill River Resort Road,180 Mill River Resort Road,O'Leary,O'Leary,PE,C0B 1P0
+11003,Egmont,18,0,,Ordinary,601,Rodd Mill River Resort,Rodd Mill River Resort,180 Mill River Resort Road,180 Mill River Resort Road,O'Leary,O'Leary,PE,C0B 1P0
+11003,Egmont,19,0,,Ordinary,602,O'Leary Legion,Légion O'Leary,69 Ellis Avenue,"69, avenue Ellis",O'Leary,O'Leary,PE,C0B 1V0
+11003,Egmont,20,0,,Ordinary,602,Rodd Mill River Resort,Rodd Mill River Resort,180 Mill River Resort Road,180 Mill River Resort Road,O'Leary,O'Leary,PE,C0B 1P0
+11003,Egmont,21,0,,Ordinary,603,Freeland Women's Institute ,Centre Freeland Women's Institute ,82 Milligan Wharf Road,82 Milligan Wharf Road,Freeland,Freeland,PE,C0B 1J0
+11003,Egmont,22,0,,Ordinary,603,Royal Canadian Legion ,Royal Canadian Legion ,1136 Ellerslie Road,1136 Ellerslie Road,Ellerslie,Ellerslie,PE,C0B 1J0
+11003,Egmont,23,0,,Ordinary,603,Lennox Island Band Office,Lennox Island Band Office,2 Eagle Feather Trail,2 Eagle Feather Trail,Lennox Island,Lennox Island,PE,C0B 1P0
+11003,Egmont,24,0,A,Ordinary,603,Tyne Valley Fire Hall,Caserne de pompiers de Tyne Valley,7078 Barlow Road,7078 Barlow Road,Tyne Valley,Tyne Valley,PE,C0B 2C0
+11003,Egmont,24,0,B,Mobile,603,Stewart Memorial Home,Stewart Memorial Home,6926 Rte 12,6926 Rte 12,Tyne Vallley,Tyne Vallley,PE,C0B 2C0
+11003,Egmont,25,0,,Ordinary,603,Tyne Valley Fire Hall,Caserne de pompiers de Tyne Valley,7078 Barlow Road,7078 Barlow Road,Tyne Valley,Tyne Valley,PE,C0B 2C0
+11003,Egmont,26,0,,Ordinary,602,O'Leary Legion,Légion O'Leary,69 Ellis Avenue,"69, avenue Ellis",O'Leary,O'Leary,PE,C0B 1V0
+11003,Egmont,27,0,,Ordinary,602,O'Leary Legion,Légion O'Leary,69 Ellis Avenue,"69, avenue Ellis",O'Leary,O'Leary,PE,C0B 1V0
+11003,Egmont,28,0,,Ordinary,602,O'Leary Legion,Légion O'Leary,69 Ellis Avenue,"69, avenue Ellis",O'Leary,O'Leary,PE,C0B 1V0
+11003,Egmont,29,0,,Ordinary,602,West Devon Women's Institute Hall,West Devon Women's Institute Hall,36146 Western Road Road,36146 Western Road Road,Coleman,Coleman,PE,C0B 1H0
+11003,Egmont,30,0,,Ordinary,602,West Point Harbourside Centre,Centre Harbourside West Point,159 Cedar Park Road,159 Cedar Park Road,West Point,West Point,PE,C0B 1V0
+11003,Egmont,31,0,,Ordinary,602,O'Leary Legion,Légion O'Leary,69 Ellis Avenue,"69, avenue Ellis",O'Leary,O'Leary,PE,C0B 1V0
+11003,Egmont,32,0,,Ordinary,602,West Point Harbourside Centre,Centre Harbourside West Point,159 Cedar Park Road,159 Cedar Park Road,West Point,West Point,PE,C0B 1V0
+11003,Egmont,33,0,,Ordinary,604,St Patrick's Grand River Hall,Salle St. Patrick Grand River,20 Hall Road,20 Hall Road,Grand River,Richmond,PE,C0B 1Y0
+11003,Egmont,34,0,,Ordinary,604,St Patrick's Grand River Hall,Salle St. Patrick Grand River,20 Hall Road,20 Hall Road,Grand River,Richmond,PE,C0B 1Y0
+11003,Egmont,35,0,,Ordinary,605,Central Lot 16 Community Hall,Central Lot 16 Community Hall,38 Ferry Road,38 Ferry Road,Miscouche,Miscouche,PE,C0B 1T0
+11003,Egmont,36,0,,Ordinary,605,Slemon Park Corporation,Slemon Park Corporation,12 Redwood Avenue Drive,12 Redwood Avenue Drive,Slemon Park,Slemon Park,PE,C0B 2A0
+11003,Egmont,37,0,,Ordinary,607,County Fair Mall,Centre commercial County Fair ,475 Granville Street,"475, rue Granville",Summerside,Summerside,PE,C1N 4P7
+11003,Egmont,38,0,,Ordinary,607,College of Piping & Celtic Art,College of Piping & Celtic Art,619 Water Street,"619, rue Water",Summerside,Summerside,PE,C1N 4H8
+11003,Egmont,39,0,,Ordinary,607,College of Piping & Celtic Art,College of Piping & Celtic Art,619 Water Street,"619, rue Water",Summerside,Summerside,PE,C1N 4H8
+11003,Egmont,40,0,,Ordinary,607,Silver Fox Curling & Yacht Community Complex,Silver Fox Curling & Yacht Community Complex,110 Water Street,"110, rue Water",Summerside,Summerside,PE,C1N 1A9
+11003,Egmont,41,0,,Ordinary,607,Silver Fox Curling & Yacht Community Complex,Silver Fox Curling & Yacht Community Complex,110 Water Street,"110, rue Water",Summerside,Summerside,PE,C1N 1A9
+11003,Egmont,42,0,,Ordinary,607,College of Piping & Celtic Art,College of Piping & Celtic Art,619 Water Street,"619, rue Water",Summerside,Summerside,PE,C1N 4H8
+11003,Egmont,43,0,,Ordinary,607,Summerside Presbyterian Church,Église presbytérienne de Summerside,130 Victoria Road,130 Victoria Road,Summerside,Summerside,PE,C1N 2G5
+11003,Egmont,44,0,,Ordinary,607,Summerside Presbyterian Church,Église presbytérienne de Summerside,130 Victoria Road,130 Victoria Road,Summerside,Summerside,PE,C1N 2G5
+11003,Egmont,45,0,,Ordinary,606,Silver Fox Curling & Yacht Community Complex,Silver Fox Curling & Yacht Community Complex,110 Water Street,"110, rue Water",Summerside,Summerside,PE,C1N 1A9
+11003,Egmont,46,0,,Ordinary,607,County Fair Mall,Centre commercial County Fair ,475 Granville Street,"475, rue Granville",Summerside,Summerside,PE,C1N 4P7
+11003,Egmont,47,0,,Ordinary,606,Credit Union Place,Credit Union Place,511 Notre Dame Street,"511, rue Notre Dame",Summerside,Summerside,PE,C1N 1T2
+11003,Egmont,48,0,A,Ordinary,606,St. Eleanors Community Centre,Salle communautaire St. Eleanors,1 West Drive,1 West Drive,Summerside,Summerside,PE,C1N 4E5
+11003,Egmont,48,0,B,Ordinary,606,St. Eleanors Community Centre,Salle communautaire St. Eleanors,1 West Drive,1 West Drive,Summerside,Summerside,PE,C1N 4E5
+11003,Egmont,49,0,,Ordinary,606,St. Eleanors Community Centre,Salle communautaire St. Eleanors,1 West Drive,1 West Drive,Summerside,Summerside,PE,C1N 4E5
+11003,Egmont,50,0,,Ordinary,606,Centre 150,Centre 150,150 Industrial Crescent,150 Industrial Crescent,Summerside,Summerside,PE,C1N 5N6
+11003,Egmont,51,0,,Ordinary,606,Centre 150,Centre 150,150 Industrial Crescent,150 Industrial Crescent,Summerside,Summerside,PE,C1N 5N6
+11003,Egmont,52,0,,Ordinary,606,Linkletter Community Centre,Centre communautaire Linkletter,1670 Route 11,1670 Route 11,Summerside,Summerside,PE,C1N 4J8
+11003,Egmont,53,0,,Ordinary,606,St. Eleanors Community Centre,Salle communautaire St. Eleanors,1 West Drive,1 West Drive,Summerside,Summerside,PE,C1N 4E5
+11003,Egmont,54,0,,Ordinary,605,St. Eleanors Community Centre,Salle communautaire St. Eleanors,1 West Drive,1 West Drive,Summerside,Summerside,PE,C1N 4E5
+11003,Egmont,55,0,,Ordinary,605,Miscouche Recreation Centre,Salle de loisirs de Miscouche,31 School Street,"31, rue School",Miscouche,Miscouche,PE,C0B 1T0
+11003,Egmont,56,0,,Ordinary,605,Miscouche Recreation Centre,Salle de loisirs de Miscouche,31 School Street,"31, rue School",Miscouche,Miscouche,PE,C0B 1T0
+11003,Egmont,57,0,,Ordinary,605,Linkletter Community Centre,Centre communautaire Linkletter,1670 Route 11,1670 Route 11,Summerside,Summerside,PE,C1N 4J8
+11003,Egmont,58,0,,Ordinary,606,Centre 150,Centre 150,150 Industrial Crescent,150 Industrial Crescent,Summerside,Summerside,PE,C1N 5N6
+11003,Egmont,59,0,,Ordinary,606,Credit Union Place,Credit Union Place,511 Notre Dame Street,"511, rue Notre Dame",Summerside,Summerside,PE,C1N 1T2
+11003,Egmont,60,0,,Ordinary,606,Credit Union Place,Credit Union Place,511 Notre Dame Street,"511, rue Notre Dame",Summerside,Summerside,PE,C1N 1T2
+11003,Egmont,61,0,,Ordinary,607,Credit Union Place,Credit Union Place,511 Notre Dame Street,"511, rue Notre Dame",Summerside,Summerside,PE,C1N 1T2
+11003,Egmont,62,0,,Ordinary,607,County Fair Mall,Centre commercial County Fair ,475 Granville Street,"475, rue Granville",Summerside,Summerside,PE,C1N 4P7
+11003,Egmont,63,0,,Ordinary,607,County Fair Mall,Centre commercial County Fair ,475 Granville Street,"475, rue Granville",Summerside,Summerside,PE,C1N 4P7
+11003,Egmont,64,0,,Ordinary,607,Summerside Presbyterian Church,Église presbytérienne de Summerside,130 Victoria Road,130 Victoria Road,Summerside,Summerside,PE,C1N 2G5
+11003,Egmont,65,0,,Ordinary,606,Credit Union Place,Credit Union Place,511 Notre Dame Street,"511, rue Notre Dame",Summerside,Summerside,PE,C1N 1T2
+11003,Egmont,66,0,,Ordinary,607,Silver Fox Curling & Yacht Community Complex,Silver Fox Curling & Yacht Community Complex,110 Water Street,"110, rue Water",Summerside,Summerside,PE,C1N 1A9
+11003,Egmont,67,0,A,Ordinary,607,Silver Fox Curling & Yacht Community Complex,Silver Fox Curling & Yacht Community Complex,110 Water Street,"110, rue Water",Summerside,Summerside,PE,C1N 1A9
+11003,Egmont,67,0,B,Ordinary,607,Silver Fox Curling & Yacht Community Complex,Silver Fox Curling & Yacht Community Complex,110 Water Street,"110, rue Water",Summerside,Summerside,PE,C1N 1A9
+11003,Egmont,68,0,,Ordinary,604,St. Nicholas Community Centre,Centre communautaire St. Nicholas,3699 Route 11,3699 Route 11,St. Nicholas,St. Nicholas,PE,C0B 1T0
+11003,Egmont,69,0,,Ordinary,604,Wellington Vanier Centre,Centre Vanier Wellington,7 Pondside Drive,7 Pondside Drive,Wellington,Wellington,PE,C0B 2E0
+11003,Egmont,70,0,,Ordinary,604,Centre Expo Festival,Centre Expo Festival,1745 Route 124,1745 Route 124,Abrams Village,Abrams Village,PE,C0B 2E0
+11003,Egmont,71,0,,Ordinary,604,Centre Expo Festival,Centre Expo Festival,1745 Route 124,1745 Route 124,Abrams Village,Abrams Village,PE,C0B 2E0
+11003,Egmont,72,0,,Ordinary,604,Centre Expo Festival,Centre Expo Festival,1745 Route 124,1745 Route 124,Abrams Village,Abrams Village,PE,C0B 2E0
+11003,Egmont,73,0,,Ordinary,604,Mont Carmel Parish Hall,Centre de Mont Carmel,5786 Route 11,5786 Route 11,Mont Carmel,Mont Carmel,PE,C0B 2E0
+11003,Egmont,500,0,A,Mobile,601,Lady Slipper Villa,Villa Lady Slipper ,490 Main Street,"490, rue Main",O'Leary,O'Leary,PE,C0B 1V0
+11003,Egmont,500,0,A,Mobile,601,Le Chez Nous,Le Chez Nous,64 Sunset Drive,64 Sunset Drive,Wellington,Wellington,PE,C0B 2E0
+11003,Egmont,500,0,A,Mobile,601,Miscouche Villa,Villa de Miscouche ,20 Lady Slipper Drive North,20 Lady Slipper Drive North,Miscouche,Miscouche,PE,C0B 1T0
+11003,Egmont,500,0,A,Mobile,601,The Valley Lodge Community Care Centre,The Valley Lodge Community Care Centre,6653 Route 12,6653 Route 12,Tyne Valley,Tyne Valley,PE,C0B 2C0
+11003,Egmont,500,0,B,Mobile,601,Reverend W.J. Phillips Residence,Reverend W.J. Phillips Residence,120 Dufferin Street,"120, rue Dufferin",Alberton,Alberton,PE,C0B 1B0
+11003,Egmont,500,0,B,Mobile,601,Tignish Seniors Home Care Co-op,Tignish Seniors Home Care Co-op,116 MacLeod Lane,116 MacLeod Lane,Tignish,Tignish,PE,C0B 2B0
+11003,Egmont,501,0,,Mobile,606,Andrews of Parkhill,Andrews de Parkhill,216 Schurman Avenue,"216, avenue Schurman",Summerside,Summerside,PE,C1N 6W2
+11003,Egmont,501,0,,Mobile,606,Andrews of Summerside,Andrews de Summerside,317 Pope Road,317 Pope Road,Summerside,Summerside,PE,C1N 6G4
+11003,Egmont,501,0,,Mobile,606,Summerset Manor,Summerset Manor,15 Frank Mellish Street,"15, rue Frank Mellish",Summerside,Summerside,PE,C1N 0H3
+11003,Egmont,501,0,,Mobile,606,Wedgewood Manor,Wedgewood Manor,310 Brophy Avenue,"310, avenue Brophy",Summerside,Summerside,PE,C1N 5N4
+11003,Egmont,600,,,Advance,-,Tignish Fire Hall,Caserne de pompiers de Tignish,241 Church Street,"241, rue Church",Tignish,Tignish,PE,C0B 2B0
+11003,Egmont,601,,,Advance,-,Holland College West Prince Campus,Holland College West Prince Campus,509 Church Street,"509, rue Church",Alberton,Alberton,PE,C0B 1B0
+11003,Egmont,602,,,Advance,-,O'Leary Legion,Légion O'Leary,69 Ellis Avenue,"69, avenue Ellis",O'Leary,O'Leary,PE,C0B 1V0
+11003,Egmont,603,,,Advance,-,Tyne Valley Fire Hall,Caserne de pompiers de Tyne Valley,7078 Barlow Road,7078 Barlow Road,Tyne Valley,Tyne Valley,PE,C0B 2C0
+11003,Egmont,604,,,Advance,-,Wellington Vanier Centre,Centre Vanier Wellington,7 Pondside Drive,7 Pondside Drive,Wellington,Wellington,PE,C0B 2E0
+11003,Egmont,605,,,Advance,-,Miscouche Recreation Centre,Salle de loisirs de Miscouche,31 School Street,"31, rue School",Miscouche,Miscouche,PE,C0B 1T0
+11003,Egmont,606,,,Advance,-,Credit Union Place,Credit Union Place,511 Notre Dame Street,"511, rue Notre Dame",Summerside,Summerside,PE,C1N 1T2
+11003,Egmont,607,,,Advance,-,Silver Fox Curling & Yacht Community Complex,Silver Fox Curling & Yacht Community Complex,110 Water Street,"110, rue Water",Summerside,Summerside,PE,C1N 1A9
+11004,Malpeque,1,0,,Ordinary,601,North Rustico Star of the Sea Club,North Rustico Star of the Sea Club,11 Sunrise Crescent,11 Sunrise Crescent,North Rustico,North Rustico,PE,C0A 1X0
+11004,Malpeque,2,0,,Ordinary,601,North Rustico Star of the Sea Club,North Rustico Star of the Sea Club,11 Sunrise Crescent,11 Sunrise Crescent,North Rustico,North Rustico,PE,C0A 1X0
+11004,Malpeque,3,0,,Ordinary,602,Brackley Beach Community Centre,Brackley Beach Community Centre,3330 Brackley Point Road,3330 Brackley Point Road,Brackley,Brackley,PE,C0A 1P0
+11004,Malpeque,4,0,,Ordinary,602,Brackley Beach Community Centre,Brackley Beach Community Centre,3330 Brackley Point Road,3330 Brackley Point Road,Brackley,Brackley,PE,C0A 1P0
+11004,Malpeque,5,0,,Ordinary,602,North Shore Community Centre,North Shore Community Centre,"2120 Covehead Road, Route 25","2120 Covehead Road, Route 25",West Covehead,West Covehead,PE,C0A 1P0
+11004,Malpeque,6,0,,Ordinary,602,North Shore Community Centre,North Shore Community Centre,"2120 Covehead Road, Route 25","2120 Covehead Road, Route 25",West Covehead,West Covehead,PE,C0A 1P0
+11004,Malpeque,7,0,,Ordinary,602,North Shore Community Centre,North Shore Community Centre,"2120 Covehead Road, Route 25","2120 Covehead Road, Route 25",West Covehead,West Covehead,PE,C0A 1P0
+11004,Malpeque,8,0,,Ordinary,602,York Community Centre,York Community Centre,669 Highway 25,669 Highway 25,York,York,PE,C0A 1P0
+11004,Malpeque,9,0,,Ordinary,602,York Community Centre,York Community Centre,669 Highway 25,669 Highway 25,York,York,PE,C0A 1P0
+11004,Malpeque,10,0,,Ordinary,602,York Community Centre,York Community Centre,669 Highway 25,669 Highway 25,York,York,PE,C0A 1P0
+11004,Malpeque,11,0,,Ordinary,602,Brackley Commons,Brackley Commons,14 Union Road,14 Union Road,Brackley,Brackley,PE,C1E 1Z3
+11004,Malpeque,12,0,,Ordinary,602,Brackley Commons,Brackley Commons,14 Union Road,14 Union Road,Brackley,Brackley,PE,C1E 1Z3
+11004,Malpeque,13,0,,Ordinary,601,Wheatley River Hall,Wheatley River Hall,16 Rackhams Lane,16 Rackhams Lane,Wheatley River,Wheatley River,PE,C0A 1H0
+11004,Malpeque,14,0,,Ordinary,602,Milton Community Hall,Milton Community Hall,7 New-Glasgow Road - Rte 224,7 New-Glasgow Road - Rte 224,Milton,Milton,PE,C1E 0S7
+11004,Malpeque,15,0,,Ordinary,601,Milton Community Hall,Milton Community Hall,7 New-Glasgow Road - Rte 224,7 New-Glasgow Road - Rte 224,Milton,Milton,PE,C1E 0S7
+11004,Malpeque,16,0,,Ordinary,601,Rustico Bay Seniors Club,Rustico Bay Seniors Club,2104 Church Road,2104 Church Road,South Rustico,South Rustico,PE,C0A 1N0
+11004,Malpeque,17,0,,Ordinary,601,Rustico Bay Seniors Club,Rustico Bay Seniors Club,2104 Church Road,2104 Church Road,South Rustico,South Rustico,PE,C0A 1N0
+11004,Malpeque,18,0,,Ordinary,601,Hunter River Lions Club,Hunter River Lions Club,4615 Route 13,4615 Route 13,Hunter River,Hunter River,PE,C0A 1N0
+11004,Malpeque,19,0,,Ordinary,601,Hunter River Lions Club,Hunter River Lions Club,4615 Route 13,4615 Route 13,Hunter River,Hunter River,PE,C0A 1N0
+11004,Malpeque,20,0,,Ordinary,601,Stanley Bridge Community Hall,Stanley Bridge Community Hall,4897 Route 224,4897 Route 224,Stanley Bridge,Stanley Bridge,PE,C0B 1M0
+11004,Malpeque,21,0,,Ordinary,600,Sea View Community Hall,Sea View Community Hall,3794 Route 20,3794 Route 20,Seaview,Seaview,PE,C0B 1M0
+11004,Malpeque,22,0,,Ordinary,600,Malpeque Community Centre,Salle Malpeque,2197 Route 20,2197 Route 20,Malpeque,Malpeque,PE,C0B 1M0
+11004,Malpeque,23,0,,Ordinary,600,Spring Valley Community Centre,Spring Valley Community Centre,1234 Spring Valley Road,1234 Spring Valley Road,Spring Valley,Spring Valley,PE,C0B 1M0
+11004,Malpeque,24,0,,Ordinary,600,Kensington Legion,Kensington Legion,88 Victoria Street West,"88, rue Victoria Ouest",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,25,0,,Ordinary,603,Kensington Legion,Kensington Legion,88 Victoria Street West,"88, rue Victoria Ouest",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,26,0,,Ordinary,603,Kensington Legion,Kensington Legion,88 Victoria Street West,"88, rue Victoria Ouest",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,27,0,,Ordinary,600,Kensington Legion,Kensington Legion,88 Victoria Street West,"88, rue Victoria Ouest",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,28,0,,Ordinary,603,Kensington Legion,Kensington Legion,88 Victoria Street West,"88, rue Victoria Ouest",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,29,0,,Ordinary,603,Kensington Legion,Kensington Legion,88 Victoria Street West,"88, rue Victoria Ouest",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,30,0,,Ordinary,603,Kensington Legion,Kensington Legion,88 Victoria Street West,"88, rue Victoria Ouest",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,31,0,,Ordinary,600,New London Community Complex,New London Community Complex,10227 Route 6,10227 Route 6,New London,New London,PE,C0B 1M0
+11004,Malpeque,32,0,,Ordinary,600,Clinton View  Lodge,Clinton View  Lodge,30 Clinton View Court,30 Clinton View Court,Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,33,0,,Ordinary,603,North Bedeque United Church,North Bedeque United Church,31 Stavert Shore Road,31 Stavert Shore Road,North Bedeque,North Bedeque,PE,C0B 1G0
+11004,Malpeque,34,0,,Ordinary,603,North Bedeque United Church,North Bedeque United Church,31 Stavert Shore Road,31 Stavert Shore Road,North Bedeque,North Bedeque,PE,C0B 1G0
+11004,Malpeque,35,0,,Ordinary,600,Emerald Community Centre,Emerald Community Centre,1910 Nodd Road,1910 Nodd Road,Emerald,Emerald,PE,C0B 1M0
+11004,Malpeque,36,0,,Ordinary,601,Central Queens United Church,Central Queens United Church,19848 Route 2,19848 Route 2,Hunter River,Hunter River,PE,C0A 1M0
+11004,Malpeque,37,0,,Ordinary,601,Central Queens United Church,Central Queens United Church,19848 Route 2,19848 Route 2,Hunter River,Hunter River,PE,C0A 1M0
+11004,Malpeque,38,0,,Ordinary,606,Hampshire Hall,Hampshire Hall,851 Route 225,851 Route 225,Hampshire,Hampshire,PE,C0A 1Y0
+11004,Malpeque,39,0,,Ordinary,606,Warren Grove Community Centre,Warren Grove Community Centre,7 Mill Road,7 Mill Road,North Wiltshire,North Wilshire,PE,C0A 1Y0
+11004,Malpeque,40,0,,Ordinary,606,Miltonvale Community Park,Miltonvale Community Park,413 Sleepy Hollow Road,413 Sleepy Hollow Road,Milton,Milton,PE,C1E 1Z4
+11004,Malpeque,41,0,,Ordinary,606,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,42,0,,Ordinary,606,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,43,0,,Ordinary,606,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,44,0,,Ordinary,606,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,45,0,,Ordinary,606,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,46,0,,Ordinary,607,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,47,0,,Ordinary,607,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,48,0,,Ordinary,607,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,49,0,,Ordinary,606,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,50,0,,Ordinary,606,A.P.M. Centre,A.P.M. Centre,37 Lowther Drive,37 Lowther Drive,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,51,0,,Ordinary,607,Cornwall/West River United Church Hall,Cornwall/West River United Church Hall,9 Cornwall Road,9 Cornwall Road,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,52,0,,Ordinary,607,Kingston Legion,Kingston Legion,15385 Trans Canada Highway,15385 Trans Canada Highway,New Haven,New Haven,PE,C0A 1H0
+11004,Malpeque,53,0,,Ordinary,605,Kingston Legion,Kingston Legion,15385 Trans Canada Highway,15385 Trans Canada Highway,New Haven,New Haven,PE,C0A 1H0
+11004,Malpeque,54,0,,Ordinary,605,Emyvale Recreation Centre,Emyvale Recreation Centre,2155 Kingston Road,2155 Kingston Road,Emyvale,Emyvale,PE,C0A 1Y0
+11004,Malpeque,55,0,,Ordinary,605,Emyvale Recreation Centre,Emyvale Recreation Centre,2155 Kingston Road,2155 Kingston Road,Emyvale,Emyvale,PE,C0A 1Y0
+11004,Malpeque,56,0,,Ordinary,604,Crapaud Hall,Crapaud Hall,36 Route 13,36 Route 13,Crapaud,Crapaud,PE,C0A 1J0
+11004,Malpeque,57,0,,Ordinary,605,Crapaud Hall,Crapaud Hall,36 Route 13,36 Route 13,Crapaud,Crapaud,PE,C0A 1J0
+11004,Malpeque,58,0,,Ordinary,604,Kanata Klub,Kanata Klub,45 Anderson Road,45 Anderson Road,Kinkora,Kinkora,PE,C0B 1N0
+11004,Malpeque,59,0,,Ordinary,604,Kanata Klub,Kanata Klub,45 Anderson Road,45 Anderson Road,Kinkora,Kinkora,PE,C0B 1N0
+11004,Malpeque,60,0,,Ordinary,604,Freetown United Church Hall,Freetown United Church Hall,1381 Freetown Road,1381 Freetown Road,Freetown,Freetown,PE,C0B 1L0
+11004,Malpeque,61,0,,Ordinary,604,Bedeque United Church Hall,Bedeque United Church Hall,1230 Callbeck Street,"1230, rue Callbeck",Bedeque,Bedeque,PE,C0B 1G0
+11004,Malpeque,62,0,,Ordinary,604,Bedeque United Church Hall,Bedeque United Church Hall,1230 Callbeck Street,"1230, rue Callbeck",Bedeque,Bedeque,PE,C0B 1G0
+11004,Malpeque,63,0,,Ordinary,604,Borden Legion,Borden Legion,240 Main Street,"240, rue Main",Borden,Borden,PE,C0B 1X0
+11004,Malpeque,64,0,,Ordinary,604,Borden Legion,Borden Legion,240 Main Street,"240, rue Main",Borden,Borden,PE,C0B 1X0
+11004,Malpeque,65,0,,Ordinary,604,Borden Legion,Borden Legion,240 Main Street,"240, rue Main",Borden,Borden,PE,C0B 1X0
+11004,Malpeque,66,0,,Ordinary,604,South Shore United Church,South Shore United Church,85 Route 10,85 Route 10,Tryon,Tryon,PE,C0A 1J0
+11004,Malpeque,67,0,,Ordinary,605,Argyle Shore Community Centre,Argyle Shore Community Centre,7654 Argyle Shore Road,7654 Argyle Shore Road,Argyle Shore,Argyle Shore,PE,C0A 1C0
+11004,Malpeque,68,0,,Ordinary,605,Island Wesleyan Church,Island Wesleyan Church,19311 Trans Canada Highway,19311 Trans Canada Highway,Hampton,Hampton,PE,C0A 1J0
+11004,Malpeque,69,0,,Ordinary,605,Afton Community Centre,Afton Community Centre,1552 Route 19,1552 Route 19,New Dominion,New Dominion,PE,C0A 1H0
+11004,Malpeque,70,0,,Ordinary,605,Afton Community Centre,Afton Community Centre,1552 Route 19,1552 Route 19,New Dominion,New Dominion,PE,C0A 1H0
+11004,Malpeque,71,0,,Ordinary,605,Afton Community Centre,Afton Community Centre,1552 Route 19,1552 Route 19,New Dominion,New Dominion,PE,C0A 1H0
+11004,Malpeque,500,0,,Mobile,600,Kensington Community Care Home,Kensington Community Care Home,25 Broadway Street South,"25, rue Broadway Sud",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,500,0,,Mobile,600,MacEwen Mews,MacEwen Mews,12080 Route 6,12080 Route 6,Margate,Margate,PE,C0B 1M0
+11004,Malpeque,500,0,,Mobile,600,Perrins Clinton View Lodge,Perrins Clinton View Lodge,30 Clinton View Court,30 Clinton View Court,Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,500,0,,Mobile,600,Rosewood Residence,Rosewood Residence,19580 Route 2,19580 Route 2,Hunter River,Hunter River,PE,C0A 1N0
+11004,Malpeque,501,0,,Mobile,605,Burnside,Burnside,707 Clyde River Road,707 Clyde River Road,Clyde River,Clyde River,PE,C0A 1H1
+11004,Malpeque,501,0,,Mobile,605,Southshore Villa,Southshore Villa,159 Sherwood Forest Drive,159 Sherwood Forest Drive,Crapaud,Crapaud,PE,C0A 1J0
+11004,Malpeque,600,,,Advance,-,Kensington United Church,Kensington United Church,17 School Street,"17, rue School",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,601,,,Advance,-,Central Queens United Church,Central Queens United Church,19848 Route 2,19848 Route 2,Hunter River,Hunter River,PE,C0A 1M0
+11004,Malpeque,602,,,Advance,-,Brackley Commons,Brackley Commons,14 Union Road,14 Union Road,Brackley,Brackley,PE,C1E 1Z3
+11004,Malpeque,603,,,Advance,-,Kensington United Church,Kensington United Church,17 School Street,"17, rue School",Kensington,Kensington,PE,C0B 1M0
+11004,Malpeque,604,,,Advance,-,Kanata Klub,Kanata Klub,45 Anderson Road,45 Anderson Road,Kinkora,Kinkora,PE,C0B 1N0
+11004,Malpeque,605,,,Advance,-,Cornwall/West River United Church Hall,Cornwall/West River United Church Hall,9 Cornwall Road,9 Cornwall Road,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,606,,,Advance,-,Cornwall/West River United Church Hall,Cornwall/West River United Church Hall,9 Cornwall Road,9 Cornwall Road,Cornwall,Cornwall,PE,C0A 1H0
+11004,Malpeque,607,,,Advance,-,Cornwall/West River United Church Hall,Cornwall/West River United Church Hall,9 Cornwall Road,9 Cornwall Road,Cornwall,Cornwall,PE,C0A 1H0

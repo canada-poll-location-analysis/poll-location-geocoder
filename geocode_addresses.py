@@ -23,9 +23,6 @@ def geocode_address(infile, outfile):
             found = dict()
     pbar = tqdm(desc="Geocoding Addresses", total=len(addrs), unit=' addrs')
     for idx, address in addrs.iterrows():
-        if address['province'].lower() not in {"on"}:
-            pbar.update()
-            continue
         address_1 = f"{address['addr']} {address['municipality']}, {address['province']} {address['post_code']} CANADA"
         pbar.set_postfix_str(address_1[:40])
         if address_1 in found:

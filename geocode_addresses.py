@@ -41,8 +41,8 @@ def geocode_address(infile, outfile):
         except TypeError:
             print(f"Address: \n{address_1}\n\twas not found")
         pbar.update()
-    addrs.to_csv(outfile)
-    print("Fin")
+    addrs.to_csv(outfile, encoding="UTF-8")
+    print("\n\nFin")
 
 
 def to_lambert(lat, lon=None):
